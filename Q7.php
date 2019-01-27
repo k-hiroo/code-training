@@ -1,4 +1,6 @@
 <?php
+//プログラマ脳を鍛える数学パズル Q06
+
 $begin = new DateTime( '1964-10-10' );
 $end = new DateTime( '2020-07-25' );
 $interval = new DateInterval('P1D');

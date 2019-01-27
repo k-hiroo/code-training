@@ -1,4 +1,6 @@
 <?php
+//プログラマ脳を鍛える数学パズル Q04
+
 //棒を切断する回数を数える関数
 function countCutting($n,$m,$stick,$count){
   if($stick>=$n){

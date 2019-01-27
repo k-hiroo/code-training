@@ -1,4 +1,6 @@
 <?php
+//プログラマ脳を鍛える数学パズル Q03
+
 $cards = array();
 for($i=1;$i<=100;$i++){
   $cards += array($i=>'back');

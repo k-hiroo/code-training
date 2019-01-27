@@ -1,4 +1,6 @@
 <?php
+//プログラマ脳を鍛える数学パズル Q06
+
 $count = 0;
 //ループしているかを判定する関数
 function isLoop($initialNum,$currentNum){

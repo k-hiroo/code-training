@@ -1,4 +1,5 @@
 <?php
+//プログラマ脳を鍛える数学パズル Q01
 $num = 11;
 $decision = true;
 while ($decision) {
